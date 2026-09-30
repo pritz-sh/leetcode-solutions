@@ -1,0 +1,123 @@
+{
+  "1512": {
+    "difficulty": "Easy",
+    "folder": "1512-Number_of_Good_Pairs",
+    "id": "1512",
+    "languages": [
+      "py"
+    ],
+    "slug": "number-of-good-pairs",
+    "stem": "number_of_good_pairs",
+    "title": "Number of Good Pairs"
+  },
+  "1662": {
+    "difficulty": "Easy",
+    "folder": "1662-Check_If_Two_String_Arrays_are_Equivalent",
+    "id": "1662",
+    "languages": [
+      "py"
+    ],
+    "slug": "check-if-two-string-arrays-are-equivalent",
+    "stem": "check_if_two_string_arrays_are_equivalent",
+    "title": "Check If Two String Arrays are Equivalent"
+  },
+  "1732": {
+    "difficulty": "Easy",
+    "folder": "1732-Find_The_Highest_Altitude",
+    "id": "1732",
+    "languages": [
+      "py"
+    ],
+    "slug": "find-the-highest-altitude",
+    "stem": "find_the_highest_altitude",
+    "title": "Find The Highest Altitude"
+  },
+  "191": {
+    "difficulty": "Easy",
+    "folder": "191-Number_of_1_Bits",
+    "id": "191",
+    "languages": [
+      "py"
+    ],
+    "slug": "number-of-1-bits",
+    "stem": "number_of_1_bits",
+    "title": "Number of 1 Bits"
+  },
+  "2037": {
+    "difficulty": "Easy",
+    "folder": "2037-Minimum_Number_Of_Moves_To_Seat_Everyone",
+    "id": "2037",
+    "languages": [
+      "py"
+    ],
+    "slug": "minimum-number-of-moves-to-seat-everyone",
+    "stem": "minimum_number_of_moves_to_seat_everyone",
+    "title": "Minimum Number Of Moves To Seat Everyone"
+  },
+  "2038": {
+    "difficulty": "Medium",
+    "folder": "2038-Remove_Colored_Pieces_if_Both_Neighbors_are_the_Same_Color",
+    "id": "2038",
+    "languages": [
+      "py"
+    ],
+    "slug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "stem": "remove_colored_pieces_if_both_neighbors_are_the_same_color",
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color"
+  },
+  "217": {
+    "difficulty": "Easy",
+    "folder": "217-Contains_Duplicate",
+    "id": "217",
+    "languages": [
+      "py"
+    ],
+    "slug": "contains-duplicate",
+    "stem": "contains_duplicate",
+    "title": "Contains Duplicate"
+  },
+  "229": {
+    "difficulty": "Medium",
+    "folder": "229-Majority_Element_II",
+    "id": "229",
+    "languages": [
+      "py"
+    ],
+    "slug": "majority-element-ii",
+    "stem": "majority_element_ii",
+    "title": "Majority Element II"
+  },
+  "557": {
+    "difficulty": "Easy",
+    "folder": "557-Reverse_Words_in_a_String_III",
+    "id": "557",
+    "languages": [
+      "py"
+    ],
+    "slug": "reverse-words-in-a-string-iii",
+    "stem": "reverse_words_in_a_string_iii",
+    "title": "Reverse Words in a String III"
+  },
+  "706": {
+    "difficulty": "Easy",
+    "folder": "706-Design_HashMap",
+    "id": "706",
+    "languages": [
+      "py"
+    ],
+    "slug": "design-hashmap",
+    "stem": "design_hashmap",
+    "title": "Design HashMap"
+  },
+  "945": {
+    "difficulty": "Medium",
+    "folder": "945-Minimum_Increment_To_Make_Array_Unique",
+    "id": "945",
+    "languages": [
+      "py"
+    ],
+    "slug": "minimum-increment-to-make-array-unique",
+    "stem": "minimum_increment_to_make_array_unique",
+    "title": "Minimum Increment To Make Array Unique"
+  }
+}
