@@ -1,16 +1,3 @@
-"""
-Drop files like 49.py / 1.cpp / 200.js / 15.rs next to this script, then run:
-
-    python read.py
-
-For each file it will:
-  1. Look up the problem on LeetCode (GraphQL) by its question number
-  2. Create  <difficulty>/<id>-<Title_Slug>/  (reusing it if it already exists)
-  3. Move + rename the file to  <title_slug>.<ext>  inside that folder
-  4. Record it in solved.json (so nothing is duplicated)
-  5. Regenerate README.md with links for every language
-"""
-
 import json
 import os
 import re
