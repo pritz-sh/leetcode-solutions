@@ -76,6 +76,18 @@
     "stem": "contains_duplicate",
     "title": "Contains Duplicate"
   },
+  "2235": {
+    "difficulty": "Easy",
+    "folder": "2235-Add_Two_Integers",
+    "id": "2235",
+    "languages": [
+      "cpp",
+      "js"
+    ],
+    "slug": "add-two-integers",
+    "stem": "add_two_integers",
+    "title": "Add Two Integers"
+  },
   "229": {
     "difficulty": "Medium",
     "folder": "229-Majority_Element_II",
@@ -98,6 +110,17 @@
     "stem": "reverse_words_in_a_string_iii",
     "title": "Reverse Words in a String III"
   },
+  "66": {
+    "difficulty": "Easy",
+    "folder": "66-Plus_One",
+    "id": "66",
+    "languages": [
+      "py"
+    ],
+    "slug": "plus-one",
+    "stem": "plus_one",
+    "title": "Plus One"
+  },
   "706": {
     "difficulty": "Easy",
     "folder": "706-Design_HashMap",
@@ -108,6 +131,18 @@
     "slug": "design-hashmap",
     "stem": "design_hashmap",
     "title": "Design HashMap"
+  },
+  "9": {
+    "difficulty": "Easy",
+    "folder": "9-Palindrome_Number",
+    "id": "9",
+    "languages": [
+      "cpp",
+      "py"
+    ],
+    "slug": "palindrome-number",
+    "stem": "palindrome_number",
+    "title": "Palindrome Number"
   },
   "945": {
     "difficulty": "Medium",
